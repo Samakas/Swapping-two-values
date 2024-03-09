@@ -18,8 +18,18 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```python
+a=input()
+b=input()
+a,b=b,a
+print("Swapped values are:",a,b)
+```
 
 
+## OUTPUT:
+![Screenshot 2024-03-09 084713](https://github.com/Samakas/Swapping-two-values/assets/154731670/47083c70-81a8-4806-ba13-9e17a60196cc)
+
+![image](https://github.com/Samakas/Swapping-two-values/assets/154731670/11d3cc24-d654-4de2-8c4a-8af6bab7ac09)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
