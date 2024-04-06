@@ -18,7 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```
+```python
 Developed By: Samakash.R.S
 Register Number: 212223230182
 
